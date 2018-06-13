@@ -1,0 +1,17 @@
+C:\Users\IllIa\source\repos\ДЗформы4\ДЗформы4\bin\Debug\ДЗформы4.exe.config
+C:\Users\IllIa\source\repos\ДЗформы4\ДЗформы4\bin\Debug\ДЗформы4.exe
+C:\Users\IllIa\source\repos\ДЗформы4\ДЗформы4\bin\Debug\ДЗформы4.pdb
+C:\Users\IllIa\source\repos\ДЗформы4\ДЗформы4\obj\Debug\ДЗформы4.csprojAssemblyReference.cache
+C:\Users\IllIa\source\repos\ДЗформы4\ДЗформы4\obj\Debug\ДЗформы4.Form1.resources
+C:\Users\IllIa\source\repos\ДЗформы4\ДЗформы4\obj\Debug\ДЗформы4.Properties.Resources.resources
+C:\Users\IllIa\source\repos\ДЗформы4\ДЗформы4\obj\Debug\ДЗформы4.csproj.GenerateResource.cache
+C:\Users\IllIa\source\repos\ДЗформы4\ДЗформы4\obj\Debug\ДЗформы4.csproj.CoreCompileInputs.cache
+C:\Users\IllIa\source\repos\ДЗформы4\ДЗформы4\obj\Debug\ДЗформы4.exe
+C:\Users\IllIa\source\repos\ДЗформы4\ДЗформы4\obj\Debug\ДЗформы4.pdb
+C:\Users\Volodymyr\Desktop\ДЗформы4\ДЗформы4\bin\Debug\ДЗформы4.exe.config
+C:\Users\Volodymyr\Desktop\ДЗформы4\ДЗформы4\obj\Debug\ДЗформы4.exe
+C:\Users\Volodymyr\Desktop\ДЗформы4\ДЗформы4\obj\Debug\ДЗформы4.pdb
+C:\Users\Volodymyr\Desktop\ДЗформы4\ДЗформы4\obj\Debug\ДЗформы4.csprojResolveAssemblyReference.cache
+C:\Users\Volodymyr\Desktop\ДЗформы4\ДЗформы4\obj\Debug\ДЗформы4.Form1.resources
+C:\Users\Volodymyr\Desktop\ДЗформы4\ДЗформы4\obj\Debug\ДЗформы4.Properties.Resources.resources
+C:\Users\Volodymyr\Desktop\ДЗформы4\ДЗформы4\obj\Debug\ДЗформы4.csproj.GenerateResource.Cache
